@@ -3,7 +3,7 @@
 <br/>
 Hey there! I'm Vishal Purushothaman 👋
 ECE Student · Software Developer · IEEE Vice-Chairman
-<img src="assets/images/VISHAL.png" width="150" height="150"/>
+<img src="VISHAL.png" width="150" height="150" />
 </div>
 
 This is my personal portfolio website — a dark-themed, fully responsive single-page site built with pure HTML, CSS & JavaScript (zero frameworks, zero dependencies). It showcases who I am, what I've built, and where I've worked.
