@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C6AF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vishal+%F0%9F%91%8B;ECE+Student+%40+RMK;Software+Developer;IEEE+Vice-Chairman" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=7C6AF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Vishal+%F0%9F%91%8B;ECE+Student+%40+RMKEC;Software+Developer;IEEE+Vice-Chairman" alt="Typing SVG" />
 <br/>
 Hey there! I'm Vishal Purushothaman 👋
 ECE Student · Software Developer · IEEE Vice-Chairman
